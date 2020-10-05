@@ -5,7 +5,7 @@ variable kind {
     type = string
     default = "CognitiveServices"
 }
-variable sku_name {
+variable cs_sku_name {
     type = string
     default = "S0"
 }
